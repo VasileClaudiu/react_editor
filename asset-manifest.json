@@ -59,7 +59,7 @@
     "main.dd79d252.js.map": "https://vasileclaudiu.github.io/react_editor/static/js/main.dd79d252.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6a3d428.css",
-    "static/js/main.dd79d252.js"
+    "https://vasileclaudiu.github.io/react_editor/static/css/main.d6a3d428.css",
+    "https://vasileclaudiu.github.io/react_editor/static/js/main.dd79d252.js"
   ]
 }
